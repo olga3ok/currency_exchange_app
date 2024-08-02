@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ```
 SECRET_KEY=
 SECRET_API= (api key exchangerate-api)
-
+```
 - Запуск:
 ```
 python manage.py runserver
